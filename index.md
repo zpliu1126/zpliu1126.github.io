@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 mastheadclass: home
 class: HOME
 title: zpl's Blog

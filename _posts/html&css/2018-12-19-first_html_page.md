@@ -1,5 +1,6 @@
 ---
-layout: subpage
+layout: default
+name: html&css
 mastheadclass: others
 parent_dir: html$css
 class: others

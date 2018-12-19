@@ -8,15 +8,20 @@
 </head>
 <body>
 	<header class="{{page.mastheadclass}}">
+		{% if page.navclass=='home' %}
+		{% include nav_home.html navclass='nav-top' %}
+		{% else page.navclass=='another' %}
 		{% include nav_another.html navclass='nav-top' %}
+		{% endif %}
 	</header>
 	{{content}}
 
 	<footer class="{{page.mastheadclass}}">
-	
+		{% if page.navclass=='home' %}
+		{% include nav_home.html navclass='nav-bottom' %}
+		{% else page.navclass=='another'}
 		{% include nav_another.html navclass='nav-bottom' %}
-
-
+		{% endif %}
 		<h3>&copy; 2018 All Right Reserve By zpliu </h3>
 	</footer>
 </body>
