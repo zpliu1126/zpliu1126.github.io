@@ -1,0 +1,10 @@
+<nav>
+	<ul class="{{include.navclass}}">	
+		<li><a href="{{site.baseurl}}/index">HOME</a></li>
+		{% for index in site.posts %}
+		<li>
+			<a href="{{index.url}}">{{index.parent_dir}}</a> <!-- 导航键根据文件title属性 -->
+		</li>
+		{% endfor %}
+	</ul>
+</nav>
