@@ -3,11 +3,16 @@ layout: default
 ---
 <strong>{{page.title}}</strong>
 <nav>
+	
 	<ul>
-		{% for subpage in   %}
-		<li>
-			<a href="{{subpage.url}}">{{subpage.title}}</a>
-		</li>
+		{% for category in site.categories %}
+			{% for post in category.last %} <!-- 遍历文章分类信息 -->
+			 {% if post.url contains page.category %}
+			<li><a href="{{post.url}}">{{post.title}}</a></li>
+			 {% endif %}
+			{% endfor %}
 		{% endfor %}
 	</ul>
+	
 </nav>
+{{content}}
