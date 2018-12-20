@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<strong>{{page.title}}</strong>
+<nav>
+	<ul>
+		{% for subpage in   %}
+		<li>
+			<a href="{{subpage.url}}">{{subpage.title}}</a>
+		</li>
+		{% endfor %}
+	</ul>
+</nav>
