@@ -1,6 +1,6 @@
 ---
 layout: default
-mastheadclass: home
+mastheadclass: home-header
 title: zpl's Blog
 navclass: home
 ---

@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<strong>{{page.title}}</strong>
-<nav>
-	
+<div class="nav-sidebar">
+	<nav >
 	<ul>
 		{% for category in site.categories %}
 			{% for post in category.last %} <!-- 遍历文章分类信息 -->
@@ -14,5 +13,7 @@ layout: default
 		{% endfor %}
 	</ul>
 	
-</nav>
+	</nav>
+</div>
 {{content}}
+
