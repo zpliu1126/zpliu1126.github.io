@@ -37,3 +37,36 @@ title: learn html$css
 世界领先的环保组织，WWF 工作于 100 个国家，
 并得到美国一百二十万会员及全球近五百万会员的支持。
 </blockquote>
+<a href="https://www.baidu.com" target="_blank"> target =_blank属性使得在新的标签页打开我们的页面</a>
+
+<a name='tips'>在同一个文档中创建锚 ，可以在同一个html中进行定位</a>
+<br/>
+<a href="#tips">回到之前的tips锚</a>
+
+<hr>
+
+<p>图片<img src="{{site.baseurl}}/image/html&css/eg_background.gif"  width="200" height="200" alt="用来检测图片位置" align="bottom">在底部</p>
+<p>图片<img src="{{site.baseurl}}/image/html&css/eg_background.gif" width="200" height="200" alt="用来检测图片位置" align="top">在上面</p>
+<p>图片<img src="{{site.baseurl}}/image/html&css/eg_background.gif" width="200" height="200" alt="用来检测图片位置" align="middle">在底部</p>
+<p><img src="{{site.baseurl}}/image/html&css/eg_background123.gif" width="200" height="200" alt="用来检测图片位置" align="middle">图片失效后显示alt信息</p>
+<p>图片默认的对齐方式是bottom</p>
+<hr>
+<p>table 标签的作用下创建表格，tr行 td 填充的数据，相当于列<br/>
+	用border属性定义边框<br/>
+	th为表头标签在table标签里定义，其实作用跟td差不多，就是换了个名字区别一下
+
+</p>
+<table border="2"> 
+	<th>1</th>
+	<th>2</th>
+<tr>
+	<td>row1 cell1</td>
+	<td>row1 cell2</td>
+	<td> </td>
+</tr>
+	<tr>
+	<td>row2 cell1</td>
+	<td>row2 cell2</td>
+</tr>
+</table>
+
