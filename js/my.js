@@ -35,3 +35,50 @@ function sourceCode(sourceID){
 	 	a=a+"</pre>"; 	
 	 	document.write(a);
 }
+
+/*用于根据标签ID属性输出整个标签的源代码,加上ID标签*/
+function sourceCodeById(sourceID){
+	 	var a=document.getElementById(sourceID).outerHTML;
+	 	a=a.replace(/\>/g,"\&gt");
+	 	a=a.replace(/\</g,"\&lt"); 
+	 	/*对HTML标签进行替换*/	
+	 	a=a.replace(/(\&lt)([^\&][a-zA-Z]+)([^\&]*)(\&gt)/g,"$1<span>$2</span>$3$4");
+	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+
+	 	/*批量对关键字进行替换*/
+	 	var keywords=["var","if","else","return"]
+	 	for (var i = keywords.length - 1; i >= 0; i--) {
+	 		var reg="/"+"("+keywords[i]+")"+"/g";
+	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
+	 	}
+	 	/*对函数名，有特征的单词进行替换*/
+	 	a=a.replace(/([a-zA-Z_]*)(\s?)(\(.*\))/g,"<font color=\"#66D9EF\">$1</font>$2$3");
+
+	 	a="<pre style=\"background-color:#444444;font-size: 18px;color: white;\">"+a;
+	 	a=a+"</pre>"; 	
+	 	document.write(a);
+}
+/*对一段字符串进行源代码展示*/
+function sourceCodeByChar(char){
+	 	var a=char;
+	 	a=a.replace(/\>/g,"\&gt");
+	 	a=a.replace(/\</g,"\&lt"); 
+	 	/*对HTML标签进行替换*/	
+	 	a=a.replace(/(\&lt)([^\&][a-zA-Z]+)([^\&]*)(\&gt)/g,"$1<span>$2</span>$3$4");
+	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+
+	 	/*批量对关键字进行替换*/
+	 	var keywords=["var","if","else","return"]
+	 	for (var i = keywords.length - 1; i >= 0; i--) {
+	 		var reg="/"+"("+keywords[i]+")"+"/g";
+	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
+	 	}
+	 	/*对函数名，有特征的单词进行替换*/
+	 	a=a.replace(/([a-zA-Z_]*)(\s?)(\(.*\))/g,"<font color=\"#66D9EF\">$1</font>$2$3");
+
+	 	a="<pre style=\"background-color:#444444;font-size: 18px;color: white;\">"+a;
+	 	a=a+"</pre>"; 	
+	 	document.write(a);
+}
