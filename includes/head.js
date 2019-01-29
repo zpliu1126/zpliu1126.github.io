@@ -1,25 +1,42 @@
-var head=["	<meta charset=\"utf-8\">",
-"	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
-"	<meta name=\"viewport\" content=\"width=device-width",
-"	initial-scale=1\">",
-"	<link rel=\"shortcut icon \" href=\"/image/title.ico\">",
-"	<!-- <title id=\"page_title\">JS基础</title> -->	",
-"	<script src=\"https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js\"></script>",
-"	<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->",
-"	<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">",
-"<!-- 可选的 Bootstrap 主题文件（一般不用引入） -->",
-"	<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css\" integrity=\"sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp\" crossorigin=\"anonymous\">",
-"<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->",
-"	<script src=\"https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js\" integrity=\"sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\" crossorigin=\"anonymous\"></script>",
-" <!-- JS表单的验证函数 -->",
-"	<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/my.css\">",
-"		<!-- 下面的三个是我引用来构建select的多选框的 -->",
-"<!-- Latest compiled and minified CSS -->",
-"<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/css/bootstrap-select.min.css\">",
-"<!-- Latest compiled and minified JavaScript -->",
-"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js\"></script>",
-"<!-- (Optional) Latest compiled and minified JavaScript translation files -->",
-"<script src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/i18n/defaults-*.min.js\"></script>",
+/*<meta charset="utf-8">
+<meta name="viewport" content="width=device-width
+init-scale=1.0">
+<link rel="shortcut icon"  href="/image/title.ico">
+<!-- jquery在服务器的文件 -->
+<script src="/js/jquery-3.3.1.min.js"></script>
+<!-- bootstrap 的js文件 -->
+<script src="/js/bootstrap.min.js"></script>
+<!-- bootstrap中的css文件 -->
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<!-- 自己写的显示源代码的js文件 -->
+<script src="/js/printSourceCode.js"></script>*/
+
+var head=["<meta charset=\"utf-8\">",
+"<meta name=\"viewport\" content=\"width=device-width",
+"init-scale=1.0\">",
+"<link rel=\"shortcut icon\"  href=\"/image/title.ico\">",
+"<!-- jquery在服务器的文件 -->",
+"<script src=\"/js/jquery-3.3.1.min.js\"></script>",
+"<!-- bootstrap 的js文件 -->",
+"<script src=\"/js/bootstrap.min.js\"></script>",
+"<!-- bootstrap中的css文件 -->",
+"<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/bootstrap.min.css\">",
+"<!-- 自己写的显示源代码的js文件 -->",
 "<script src=\"/js/printSourceCode.js\"></script>"].join("");
 document.write(head);
 /*使用html5->js 代码实现复用*/
+/*https://www.html.cn/tool/html2js/
+*/
+
+	
+
+
+
+
+
+	
+
+
+	
+
+	
