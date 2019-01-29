@@ -1,5 +1,5 @@
 /*用于判断登录表单的提交的函数*/
-function confirmPassword(){
+/*function confirmPassword(){
 		var firstPassword=document.forms['ChangePasswordForm']["password"].value;
 		var confirmPassword=document.forms['ChangePasswordForm']["confirm_password"].value;
 		if( firstPassword=="" || confirmPassword==""){
@@ -11,7 +11,7 @@ function confirmPassword(){
 			return false;
 		}
 
-}
+}*/
 /*用于根据标签ID属性输出整个标签的源代码*/
 function sourceCode(sourceID){
 	 	var a=document.getElementById(sourceID).outerHTML;
