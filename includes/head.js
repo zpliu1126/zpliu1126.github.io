@@ -23,7 +23,7 @@ var head=["<meta charset=\"utf-8\">",
 "<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/bootstrap.min.css\">",
 "<!-- 自己写的显示源代码的js文件 -->",
 "<script src=\"/js/printSourceCode.js\"></script>"].join("");
-document.write(head);
+
 /*使用html5->js 代码实现复用*/
 /*https://www.html.cn/tool/html2js/
 */
