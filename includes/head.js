@@ -20,6 +20,6 @@ var head=["	<meta charset=\"utf-8\">",
 "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js\"></script>",
 "<!-- (Optional) Latest compiled and minified JavaScript translation files -->",
 "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/i18n/defaults-*.min.js\"></script>",
-"<script src=\"/js/my.js\"></script>"].join("");
+"<script src=\"/js/printSourceCode.js\"></script>"].join("");
 document.write(head);
 /*使用html5->js 代码实现复用*/
