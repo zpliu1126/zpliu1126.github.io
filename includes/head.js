@@ -13,7 +13,7 @@ init-scale=1.0">
 
 var head=["<meta charset=\"utf-8\">",
 "<meta name=\"viewport\" content=\"width=device-width",
-"init-scale=1.0\">",
+"init-scale=1\">",
 "<link rel=\"shortcut icon\"  href=\"/image/title.ico\">",
 "<!-- jquery在服务器的文件 -->",
 "<script src=\"/js/jquery-3.3.1.min.js\"></script>",
