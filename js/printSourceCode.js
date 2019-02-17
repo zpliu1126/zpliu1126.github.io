@@ -14,7 +14,7 @@
 }*/
 /*用于根据标签ID属性输出整个标签的源代码*/
 function sourceCode(sourceID){
-	 	var a=document.getElementById(sourceID).outerHTML;
+	 	var a=document.getElementById(sourceID).innerHTML;
 	 	a=a.replace(/\>/g,"\&gt");
 	 	a=a.replace(/\</g,"\&lt"); 
 	 	/*对HTML标签进行替换*/	
@@ -38,7 +38,7 @@ function sourceCode(sourceID){
 
 /*用于根据标签ID属性输出整个标签的源代码,加上ID标签*/
 function sourceCodeById(sourceID){
-	 	var a=document.getElementById(sourceID).outerHTML;
+	 	var a=document.getElementById(sourceID).innerHTML;
 	 	a=a.replace(/\>/g,"\&gt");
 	 	a=a.replace(/\</g,"\&lt"); 
 	 	/*对HTML标签进行替换*/	
