@@ -23,7 +23,7 @@ function sourceCode(sourceID){
 	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
 
 	 	/*批量对关键字进行替换*/
-	 	var keywords=["var","if","else","return"]
+	 	var keywords=["var","if","else","return","karyotype","ideogram","spacing","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
 	 		var reg="/"+"("+keywords[i]+")"+"/g";
 	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
@@ -47,7 +47,7 @@ function sourceCodeById(sourceID){
 	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
 
 	 	/*批量对关键字进行替换*/
-	 	var keywords=["var","if","else","return"]
+	 	var keywords=["var","if","else","return","karyotype","ideogram","spacing","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
 	 		var reg="/"+"("+keywords[i]+")"+"/g";
 	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
@@ -70,7 +70,7 @@ function sourceCodeByChar(char){
 	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
 
 	 	/*批量对关键字进行替换*/
-	 	var keywords=["var","if","else","return"]
+	 	var keywords=["var","if","else","return","karyotype","ideogram","spacing","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
 	 		var reg="/"+"("+keywords[i]+")"+"/g";
 	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
