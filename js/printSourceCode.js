@@ -25,7 +25,7 @@ function sourceCode(sourceID){
 	 	/*感觉变量的命名应该会有=号在附近;并且后面font会有color的css样式设置；所以放在最前面*/
 	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
 	 	/*批量对关键字进行替换*/
-	 	var keywords=["var","if","else","return","karyotype","ideogram","spacing","break_style","ticks","tick","include","image"];
+	 	var keywords=["var","if","else","return","ideogram","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
 	 		var reg="/"+"("+keywords[i]+")"+"/g";
 	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
@@ -54,7 +54,7 @@ function sourceCodeById(sourceID){
 	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
 
 	 	/*批量对关键字进行替换*/
-	 	var keywords=["var","if","else","return","karyotype","ideogram","spacing","break_style","ticks","tick","include","image"];
+	 	var keywords=["var","if","else","return","ideogram","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
 	 		var reg="/"+"("+keywords[i]+")"+"/g";
 	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
@@ -79,7 +79,7 @@ function sourceCodeByChar(char){
 	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
 
 	 	/*批量对关键字进行替换*/
-	 	var keywords=["var","if","else","return","karyotype","ideogram","spacing","break_style","ticks","tick","include","image"];
+	 	var keywords=["var","if","else","return","ideogram","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
 	 		var reg="/"+"("+keywords[i]+")"+"/g";
 	 		a=a.replace(eval(reg),"<font color=\"#F92672\">$1</font>");
