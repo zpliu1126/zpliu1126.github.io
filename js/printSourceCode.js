@@ -17,13 +17,14 @@ function sourceCode(sourceID){
 	 	var a=document.getElementById(sourceID).innerHTML;
 	 	a=a.replace(/\>/g,"\&gt");
 	 	a=a.replace(/\</g,"\&lt"); 
+/*感觉变量的命名应该会有=号在附近;并且后面font会有color的css样式设置；所以放在最前面*/
+	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
 	 	/*对HTML标签进行替换*/	
 /*	 	a=a.replace(/(\&lt)([^\&][a-zA-Z]+)([^\&]*)(\&gt)/g,"$1<span>$2</span>$3$4");*/
-	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+/*	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
 	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+*/
 
-	 	/*感觉变量的命名应该会有=号在附近;并且后面font会有color的css样式设置；所以放在最前面*/
-	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
 	 	/*批量对关键字进行替换*/
 	 	var keywords=["var","if","else","return","ideogram","break_style","ticks","tick","include","image"];
 	 	for (var i = keywords.length - 1; i >= 0; i--) {
@@ -44,14 +45,15 @@ function sourceCodeById(sourceID){
 	 	var a=document.getElementById(sourceID).innerHTML;
 	 	a=a.replace(/\>/g,"\&gt");
 	 	a=a.replace(/\</g,"\&lt"); 
+	/*感觉变量的命名应该会有=号在附近;并且后面font会有color的css样式设置；所以放在最前面*/
+	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
 	 	
 	 	/*对HTML标签进行替换*/	
 	/* 	a=a.replace(/(\&lt)([^\&][a-zA-Z]+)([^\&]*)(\&gt)/g,"$1<span>$2</span>$3$4");*/
-	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+/*	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
 	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
-
-	 	/*感觉变量的命名应该会有=号在附近;并且后面font会有color的css样式设置；所以放在最前面*/
-	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
+*/
+	
 
 	 	/*批量对关键字进行替换*/
 	 	var keywords=["var","if","else","return","ideogram","break_style","ticks","tick","include","image"];
@@ -71,12 +73,13 @@ function sourceCodeByChar(char){
 	 	var a=char;
 	 	a=a.replace(/\>/g,"\&gt");
 	 	a=a.replace(/\</g,"\&lt"); 
-	 	/*对HTML标签进行替换*/	
-/*	 	a=a.replace(/(\&lt)([^\&][a-zA-Z]+)([^\&]*)(\&gt)/g,"$1<span>$2</span>$3$4");*/
-	 	a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
-	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");
 	 	/*感觉变量的命名应该会有=号在附近;并且后面font会有color的css样式设置；所以放在最前面*/
 	 	a=a.replace(/([a-zA-Z_0-9]*)(\s*)=(\s*)/g,"<font color=\"#A6E22E\">$1</font>$2=$3");
+	 	/*对HTML标签进行替换*/	
+/*	 	a=a.replace(/(\&lt)([^\&][a-zA-Z]+)([^\&]*)(\&gt)/g,"$1<span>$2</span>$3$4");*/
+	 	/*a=a.replace(/(")([^"]*)(")/g,"$1<font color=\"#E6DB74\">$2</font>$3");
+	 	a=a.replace(/(')([^']*)(')/g,"$1<font color=\"#E6DB74\">$2</font>$3");*/
+	 	
 
 	 	/*批量对关键字进行替换*/
 	 	var keywords=["var","if","else","return","ideogram","break_style","ticks","tick","include","image"];
