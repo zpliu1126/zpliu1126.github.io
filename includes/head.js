@@ -1,7 +1,7 @@
 /*<meta charset="utf-8">
 <meta name="viewport" content="width=device-width
 init-scale=1.0">
-<link rel="shortcut icon"  href="/image/title.ico">
+<link rel="shortcut icon"  href="/image/bitbug_favicon.ico">
 <!-- jquery在服务器的文件 -->
 <script src="/js/jquery-3.3.1.min.js"></script>
 <!-- bootstrap 的js文件 -->
