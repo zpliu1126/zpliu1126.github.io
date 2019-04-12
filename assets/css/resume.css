@@ -48,8 +48,11 @@
             animation-delay: 0.3s;
 
         }
-        #next-skill{
-        /* 这里一定要使用id选择器不然锚不正常 */
+        .next-skill{
+        /* 这里一定要使用id选择器不然锚不正常，改成class并且在jquery中使用this
+		
+		*/
+		
          position:absolute;left: 45%;
          right: 45%; 
          background-color: rgba(60, 80, 80, 0.5);
