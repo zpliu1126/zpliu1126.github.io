@@ -18,7 +18,7 @@
             background-size: cover!important;
             background-repeat: no-repeat;
             /* 高度为视窗高度 */
-            min-height: 100vh;
+           /* min-height: 100vh;*/
             background-attachment: scroll;
         }
         .mbr-overlay{
