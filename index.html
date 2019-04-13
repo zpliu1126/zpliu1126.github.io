@@ -1,3 +1,9 @@
+<?php
+/*
+Template Name: 跳转个人简历
+*/
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +19,7 @@
     <!-- 关于resume的一些css -->
     <link rel="stylesheet" type="text/css" href="https://zpliu1126.github.io/assets/css/resume.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <script src="https://zpliu1126.github.io/assets/busuanzi.js%3Fv%3D1"></script>
     <style type="text/css" media="screen">
     @media(max-height: 1024px){
         .content{
@@ -37,6 +44,9 @@
                 loading...
             </p>
             <p id="process_show" style="font-size: 10px;"></p>
+           <div>
+               <span id="busuanzi_container_site_pv">SiteView: <span id="busuanzi_value_site_pv"></span></span>
+           </div>
         </div>
         <div class="col-md-4 "></div>
     </div>
@@ -100,7 +110,7 @@ function check(i,img){
         clearInterval(intervals[i]);
         if(i==0){
             //当第一张图片的check函数停止时，就进入下一个页面
-            window.location.href="resume.html";
+            window.location.href="resume";
             }
         }
     }
