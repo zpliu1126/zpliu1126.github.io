@@ -1,14 +1,111 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-  <meta name="baidu-site-verification" content="nkL4NKuFaW" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <title>个人简历</title>
+    <link rel="shortcut icon" href="https://zpliu1126.github.io/image/favicon.ico">
+    <script src="https://zpliu1126.github.io/js/jquery-3.3.1.min.js"></script>
+    <script src="https://zpliu1126.github.io/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://zpliu1126.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="">
+    <!-- 关于resume的一些css -->
+    <link rel="stylesheet" type="text/css" href="https://zpliu1126.github.io/assets/css/resume.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <style type="text/css" media="screen">
+    @media(max-height: 1024px){
+        .content{
+            padding-top: 50px;
+        }
+    }    
+    @media(max-height: 500px){
+        .content{
+            padding-top: 20px;
+        }
+    }
+
+        
+    </style>
 </head>
-<body style="background-image:url(/img/background.png);">
-	
+<body>
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4 text-center content">
+            <img src="https://zpliu1126.github.io/assets/images/Preloader_2.gif" width="150px" alt="">
+            <p  style="font-size: 28px;">
+                loading...
+            </p>
+            <p id="process_show" style="font-size: 10px;"></p>
+        </div>
+        <div class="col-md-4 "></div>
+    </div>
 </body>
+<script>
+(function($){
+    var imgs=[
+"http://www.zpliublog.club/wp-content/uploads/2019/03/ai-artificial-intelligence-blur-546819-1.jpg",//795kb
+"http://www.zpliublog.club/wp-content/uploads/2019/04/beach-blue-sky-clear-sky-2084699.jpg",//728kb
+"http://www.zpliublog.club/wp-content/uploads/2019/04/blossom-clouds-dark-977304.jpg",//2048kb
+//3076
+    ];
+//获取加载图片数目
+var n=imgs.length;
+//图片大小
+var sizes=[795,728,2048];
+//图片加载状态
+var iscomplted=[0,0,0];
+//图片总大小
+var sum=0;
+for(var i=0;i<n;i++){
+    sum+=sizes[i];
+}
+//已加载大小
+var curSize=0;
+var timeout=1000;
+var wait_time=90000;
+var intervals=new Array();
+for(var i=0;i<n;i++){
+    var img=new Image();
+    img.src=imgs[i];
+    //持续调用函数，记录每张图片的加载情况
+    intervals[i]=setInterval(check,timeout,i,img)
+}
+//记录图片加载函数执行次数
+var cnt=0;
+//在等待的时间内最多经过这么多次的check函数
+var cnt_threshold=wait_time*n/timeout;
+function check(i,img){
+    cnt++;
+    //判断图片是否加载完成,并且打上标记
+    if(img.complete && iscomplted[i]==0){
+        iscomplted[i]=1;
+        curSize+=sizes[i]
+    }else{
+        if (sizes[i]>100) {
+            //在图片没有加载完成时，让界面数字有变化
+            sizes[i]-=20;
+            curSize+=20;
+        }
+
+    }
+    var process_star=$("#process_show");//获取显示对象
+    if(curSize>sum) curSize=sum;
+    var s=curSize + "";
+    //让数字右对齐，因为数字位数不一样
+    while(s.length!=5) s=" "+s;
+    process_star.html(s+"/"+sum+"(Kb) </br>");
+    if(curSize>=sum-10||cnt>=cnt_threshold){
+        //每张图片加载的差不多的时候，就停止check的检查函数
+        clearInterval(intervals[i]);
+        if(i==0){
+            //当第一张图片的check函数停止时，就进入下一个页面
+            window.location.href="resume";
+            }
+        }
+    }
+    document.documentElement.style.overflowY="hidden";
+})(jQuery);
+</script>
+
 </html>
