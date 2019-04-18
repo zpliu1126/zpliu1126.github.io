@@ -1,3 +1,4 @@
+/*version=1*/
 var bszCaller, bszTag;
 ! function() {
     var c, d, e, a = !1,
