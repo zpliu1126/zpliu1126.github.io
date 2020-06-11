@@ -1,5 +1,4 @@
-{
-data:[
+[
         {
           time: 1522372393000,
           img: '/figure/Group 36.jpeg',
@@ -23,5 +22,3 @@ data:[
           ]
         },
       ]
-
-}
