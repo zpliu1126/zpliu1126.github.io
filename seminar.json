@@ -1,24 +1,13 @@
 [
         {
-          time: 1522372393000,
-          img: '/figure/Group 36.jpeg',
-          title: '',
-          content: [
+          "time": 1522372393000,
+          "img": "/figure/Group 36.jpeg",
+          "title": "",
+          "content": [
             {
-              title: 'dsad',
-              url: 'dasdas'
+              "title": "dsad",
+              "url": "dsad"
             }
           ]
-        },
-        {
-          time: 1522372393000,
-          img: 'https://profile.csdnimg.cn/B/B/0/1_weixin_38065708',
-          title: '',
-          content: [
-            {
-              title: 'dsad',
-              url: 'dasdas'
-            }
-          ]
-        },
-      ]
+        }
+]
