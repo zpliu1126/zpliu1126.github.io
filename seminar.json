@@ -1,13 +1,17 @@
 [
-        {
-          "time": 1522372393000,
-          "img": "/figure/Group 36.jpeg",
-          "title": "",
-          "content": [
-            {
-              "title": "dsad",
-              "url": "dsad"
-            }
-          ]
-        }
+  {
+    "time": 1522372393000,
+    "img": "/figure/Group 36.jpeg",
+    "title": "",
+    "content": [
+      {
+        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
+        "url": "https://biocottonhub.github.io/codeHub/2020/04/24/26%E6%9D%82%E8%8D%89%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%BF%9B%E5%8C%96/"
+      },
+      {
+        "title": "Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer",
+        "url": "https://biocottonhub.github.io/codeHub/2020/04/23/25%E7%99%8C%E7%97%87%E4%B8%AD%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%9A%84%E9%87%8D%E6%8E%92%E5%AF%B9%E6%9F%93%E8%89%B2%E8%B4%A8%E6%8A%98%E5%8F%A0%E7%9A%84%E5%BD%B1%E5%93%8D/"
+      }
+    ]
+  }
 ]
