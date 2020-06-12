@@ -1,13 +1,105 @@
 [
   {
+    "time": "2020-06-13",
+    "powerpointUrl": "https://biocodehub.coding.net/s/5da7aeca-483a-44cf-ae50-ccaee3c42de4",
+    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "title": "",
+    "content": [
+      {
+        "title": "ChromID identifies the protein interactome at chromatin marks",
+        "url": "",
+        "author": "牛昊"
+      },
+      {
+        "title": "Transcript expression-aware annotation improves rare variant interpretation",
+        "url": "",
+        "author": "彭雅滨"
+      },
+      {
+        "title": "CRISPR–Cas9-mediated induction of heritable chromosomal translocations in Arabidopsis",
+        "url": "",
+        "author": "罗宣宣"
+      }
+    ]
+  },
+  {
+    "time": "2020-06-06",
+    "powerpointUrl": "https://biocodehub.coding.net/s/5da7aeca-483a-44cf-ae50-ccaee3c42de4",
+    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Transcript isoform sequencing reveals widespread promoter-proximal transcriptional termination in Arabidopsis",
+        "url": "https://note.youdao.com/ynoteshare1/index.html?id=bb6799b36afa53c7ad5b73af198e7a7e&type=note",
+        "author": "苏柃"
+      },
+      {
+        "title": "Variant phasing and haplotypic expression from long-read sequencing in maize",
+        "url": "",
+        "author": "刘振平"
+      },
+      {
+        "title": "GPSeq reveals the radial organization of chromatin in the cell nucleus",
+        "url": "",
+        "author": "黄越凡"
+      }
+    ]
+  },
+  {
+    "time": "2020-05-30",
+    "powerpointUrl": "https://biocodehub.coding.net/s/bc2f86f3-8f5e-46bd-beac-c64ed21722cc",
+    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Transcript isoform sequencing reveals widespread promoter-proximal transcriptional termination in Arabidopsis",
+        "url": "https://note.youdao.com/ynoteshare1/index.html?id=bb6799b36afa53c7ad5b73af198e7a7e&type=note",
+        "author": "尤佳琦"
+      },
+      {
+        "title": "Enhanced Maps of Transcription Factor Binding Sites Improve Regulatory Networks Learned from Accessible Chromatin Data",
+        "url": "",
+        "author": "张赛男"
+      },
+      {
+        "title": "Pan-cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition",
+        "url": "",
+        "author": "宋杨"
+      }
+    ]
+  },
+  {
+    "time": "2020-05-23",
+    "powerpointUrl": "https://biocodehub.coding.net/s/718783c3-0d58-4533-ba75-a3a6ddebec13",
+    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Quantifying genetic effects on disease mediated by assayed gene expression levels",
+        "url": "",
+        "author": "陈鑫媛"
+      },
+      {
+        "title": "The preponderance of nonsynonymous A-to-I RNA editing in coleoids is nonadaptive",
+        "url": "",
+        "author": "薛东航"
+      },
+      {
+        "title": "Long-range Interactions Between Topologically Associating Domains Shape the Four-Dimensional Genome During Differentiation",
+        "url": "",
+        "author": "杨航"
+      }
+    ]
+  },
+  {
     "time": "2020-05-16",
     "powerpointUrl": "https://biocodehub.coding.net/s/48aa8b06-a90f-40d6-a4c1-0c7324b973a7",
     "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
     "title": "",
     "content": [
       {
-        "title": "Chromatin architecture reorganization in murine somatic cell nuclear transfer em",
-        "url": "https://note.youdao.com/ynoteshare1/index.html?id=6eb4c65a879eb56c38d4ebd4cd20b3e0&type=note",
+        "title": "Wheat chromatin architecture is organized in genome territories and transcription factories",
+        "url": "",
         "author": "常兴"
       },
       {
@@ -29,18 +121,18 @@
     "title": "",
     "content": [
       {
-        "title": "Chromatin architecture reorganization in murine somatic cell nuclear transfer em",
+        "title": "Chromatin architecture reorganization in murine somatic cell nuclear transfer embryos",
         "url": "https://note.youdao.com/ynoteshare1/index.html?id=6eb4c65a879eb56c38d4ebd4cd20b3e0&type=note",
         "author": "苏柃"
       },
       {
-        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
+        "title": "A Pan-plant Protein Complex Map Reveals Deep Conservation and Novel Assemblies",
         "url": "",
         "author": "尤佳琦"
       },
       {
         "title": "Genomic basis for RNA alterations in cancer",
-        "url": "",
+        "url": "https://note.youdao.com/ynoteshare1/index.html?id=16f885ce0e23e313569c76046a4b164e&type=note",
         "author": "王瑞鹏"
       }
     ]
