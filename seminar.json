@@ -8,132 +8,168 @@
       {
         "title": "ChromID identifies the protein interactome at chromatin marks",
         "url": "",
-        "author": "牛昊"
+        "author": "牛昊",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41587-020-0434-2"
       },
       {
         "title": "Transcript expression-aware annotation improves rare variant interpretation",
         "url": "",
-        "author": "彭雅滨"
+        "author": "彭雅滨",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2329-2"
       },
       {
         "title": "CRISPR–Cas9-mediated induction of heritable chromosomal translocations in Arabidopsis",
         "url": "",
-        "author": "罗宣宣"
+        "author": "罗宣宣",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41477-020-0663-x"
       }
     ]
   },
   {
     "time": "2020-06-06",
     "powerpointUrl": "https://biocodehub.coding.net/s/5da7aeca-483a-44cf-ae50-ccaee3c42de4",
-    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "img": "https://s1.ax1x.com/2020/06/12/tOWsp9.png",
     "title": "",
     "content": [
       {
-        "title": "Transcript isoform sequencing reveals widespread promoter-proximal transcriptional termination in Arabidopsis",
+        "title": "Retrotranspositional landscape of Asian rice revealed by 3000 genomes",
         "url": "https://note.youdao.com/ynoteshare1/index.html?id=2e5e6af4746971749da83e87c1f71039&type=note",
-        "author": "苏柃"
+        "author": "苏柃",
+        "category": ["重测序", "转座子"],
+        "source": "https://www.nature.com/articles/s41467-018-07974-5"
       },
       {
         "title": "Variant phasing and haplotypic expression from long-read sequencing in maize",
         "url": "",
-        "author": "刘振平"
+        "author": "刘振平",
+        "category": ["杂志优势", "基因分型"],
+        "source": "https://www.nature.com/articles/s42003-020-0805-8"
       },
       {
         "title": "GPSeq reveals the radial organization of chromatin in the cell nucleus",
         "url": "",
-        "author": "黄越凡"
+        "author": "黄越凡",
+        "category": ["3维染色质结构", "实验方法"],
+        "source": "https://www.nature.com/articles/s41587-020-0519-y"
       }
     ]
   },
   {
     "time": "2020-05-30",
     "powerpointUrl": "https://biocodehub.coding.net/s/bc2f86f3-8f5e-46bd-beac-c64ed21722cc",
-    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "img": "https://s1.ax1x.com/2020/06/12/tOW2m6.png",
     "title": "",
     "content": [
       {
         "title": "Transcript isoform sequencing reveals widespread promoter-proximal transcriptional termination in Arabidopsis",
         "url": "https://note.youdao.com/ynoteshare1/index.html?id=bb6799b36afa53c7ad5b73af198e7a7e&type=note",
-        "author": "尤佳琦"
+        "author": "尤佳琦",
+        "category": ["转录调控", "可变剪切"],
+        "source": "https://www.nature.com/articles/s41467-020-16390-7"
       },
       {
         "title": "Enhanced Maps of Transcription Factor Binding Sites Improve Regulatory Networks Learned from Accessible Chromatin Data",
         "url": "",
-        "author": "张赛男"
+        "author": "张赛男",
+        "category": ["转录因子结合位点"],
+        "source": "http://www.plantphysiol.org/content/181/2/412"
       },
       {
         "title": "Pan-cancer analysis of whole genomes identifies driver rearrangements promoted by LINE-1 retrotransposition",
         "url": "",
-        "author": "宋杨"
+        "author": "宋杨",
+        "category": ["泛基因组", "转座子"],
+        "source": "https://www.nature.com/articles/s41588-019-0562-0"
       }
     ]
   },
   {
     "time": "2020-05-23",
     "powerpointUrl": "https://biocodehub.coding.net/s/718783c3-0d58-4533-ba75-a3a6ddebec13",
-    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "img": "https://s1.ax1x.com/2020/06/12/tOWylR.png",
     "title": "",
     "content": [
       {
         "title": "Quantifying genetic effects on disease mediated by assayed gene expression levels",
         "url": "",
-        "author": "陈鑫媛"
+        "author": "陈鑫媛",
+        "category": ["数量遗传", "GWAS"],
+        "source": "https://www.nature.com/articles/s41588-020-0625-2"
       },
       {
         "title": "The preponderance of nonsynonymous A-to-I RNA editing in coleoids is nonadaptive",
         "url": "",
-        "author": "薛东航"
+        "author": "薛东航",
+        "category": ["RNA编辑"],
+        "source": "http://nature.com/articles/s41467-019-13275-2"
       },
       {
         "title": "Long-range Interactions Between Topologically Associating Domains Shape the Four-Dimensional Genome During Differentiation",
         "url": "",
-        "author": "杨航"
+        "author": "杨航",
+        "category": ["TAD", "4Dgenome"],
+        "source": "https://www.nature.com/articles/s41588-019-0392-0"
       }
     ]
   },
   {
     "time": "2020-05-16",
     "powerpointUrl": "https://biocodehub.coding.net/s/48aa8b06-a90f-40d6-a4c1-0c7324b973a7",
-    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "img": "https://s1.ax1x.com/2020/06/12/tOWDfJ.png",
     "title": "",
     "content": [
       {
         "title": "Wheat chromatin architecture is organized in genome territories and transcription factories",
         "url": "",
-        "author": "常兴"
+        "author": "常兴",
+        "category": ["3Dgenome"],
+        "source": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01998-1"
       },
       {
         "title": "Three-dimensional chromatin landscapes in T cell acute lymphoblastic leukemia",
         "url": "",
-        "author": "牛昊"
+        "author": "牛昊",
+        "category": ["3Dgenome"],
+        "source": "https://www.nature.com/articles/s41588-020-0602-9"
       },
       {
         "title": "Genomic basis for RNA alterations in cancer",
         "url": "",
-        "author": "王悦瑾"
+        "author": "王悦瑾",
+        "category": ["lncRNA", "转录调控"],
+        "source": "https://www.nature.com/articles/s41586-020-1970-0"
       }
     ]
   },
   {
     "time": "2020-05-09",
     "powerpointUrl": "https://biocodehub.coding.net/s/d66af799-6871-428a-bc0a-9588a579ad4d",
-    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "img": "https://s1.ax1x.com/2020/06/12/tOW661.png",
     "title": "",
     "content": [
       {
         "title": "Chromatin architecture reorganization in murine somatic cell nuclear transfer embryos",
         "url": "https://note.youdao.com/ynoteshare1/index.html?id=6eb4c65a879eb56c38d4ebd4cd20b3e0&type=note",
-        "author": "苏柃"
+        "author": "苏柃",
+        "category": ["染色质互作", "胚胎发育"],
+        "source": "https://www.nature.com/articles/s41467-020-15607-z"
       },
       {
         "title": "A Pan-plant Protein Complex Map Reveals Deep Conservation and Novel Assemblies",
         "url": "",
-        "author": "尤佳琦"
+        "author": "尤佳琦",
+        "category": ["泛基因组", "蛋白互作", "机器学习"],
+        "source": "https://www.ncbi.nlm.nih.gov/pubmed/32191846"
       },
       {
         "title": "Genomic basis for RNA alterations in cancer",
         "url": "https://note.youdao.com/ynoteshare1/index.html?id=16f885ce0e23e313569c76046a4b164e&type=note",
-        "author": "王瑞鹏"
+        "author": "王瑞鹏",
+        "category": ["泛基因组"],
+        "source": "https://www.nature.com/articles/s41586-020-1970-0"
       }
     ]
   },
@@ -144,19 +180,25 @@
     "title": "",
     "content": [
       {
-        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
-        "url": "https://biocottonhub.github.io/codeHub/2020/04/24/26%E6%9D%82%E8%8D%89%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%BF%9B%E5%8C%96/",
-        "author": "陈鑫媛"
+        "title": "A compendium of promoter-centered long-range chromatin interactions in the human genome",
+        "url": "",
+        "author": "陈鑫媛",
+        "category": ["3Dgenome", "启动子"],
+        "source": "https://www.ncbi.nlm.nih.gov/pubmed/31501517"
       },
       {
         "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
         "url": "https://biocottonhub.github.io/codeHub/2020/04/24/26%E6%9D%82%E8%8D%89%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%BF%9B%E5%8C%96/",
-        "author": "刘振平"
+        "author": "刘振平",
+        "category": ["群体遗传学", "水稻进化"],
+        "source": "https://www.sciencedirect.com/science/article/pii/S1674205219300255"
       },
       {
         "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
         "url": "https://biocottonhub.github.io/codeHub/2020/04/23/25%E7%99%8C%E7%97%87%E4%B8%AD%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%9A%84%E9%87%8D%E6%8E%92%E5%AF%B9%E6%9F%93%E8%89%B2%E8%B4%A8%E6%8A%98%E5%8F%A0%E7%9A%84%E5%BD%B1%E5%93%8D/",
-        "author": "龙跃轩"
+        "author": "龙跃轩",
+        "category": ["SVS", "TADs"],
+        "source": "https://www.nature.com/articles/s41588-019-0564-y"
       }
     ]
   }
