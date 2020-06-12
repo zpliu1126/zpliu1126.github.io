@@ -1,33 +1,70 @@
 [
   {
-    "time": 1588982400000,
-    "date": "2020-05-09",
+    "time": "2020-05-16",
+    "powerpointUrl": "https://biocodehub.coding.net/s/48aa8b06-a90f-40d6-a4c1-0c7324b973a7",
     "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
     "title": "",
     "content": [
       {
-        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
-        "url": "https://biocottonhub.github.io/codeHub/2020/04/24/26%E6%9D%82%E8%8D%89%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%BF%9B%E5%8C%96/"
+        "title": "Chromatin architecture reorganization in murine somatic cell nuclear transfer em",
+        "url": "https://note.youdao.com/ynoteshare1/index.html?id=6eb4c65a879eb56c38d4ebd4cd20b3e0&type=note",
+        "author": "常兴"
       },
       {
-        "title": "Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer",
-        "url": "https://biocottonhub.github.io/codeHub/2020/04/23/25%E7%99%8C%E7%97%87%E4%B8%AD%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%9A%84%E9%87%8D%E6%8E%92%E5%AF%B9%E6%9F%93%E8%89%B2%E8%B4%A8%E6%8A%98%E5%8F%A0%E7%9A%84%E5%BD%B1%E5%93%8D/"
+        "title": "Three-dimensional chromatin landscapes in T cell acute lymphoblastic leukemia",
+        "url": "",
+        "author": "牛昊"
+      },
+      {
+        "title": "Genomic basis for RNA alterations in cancer",
+        "url": "",
+        "author": "王悦瑾"
       }
     ]
   },
   {
-    "time": 1587772800000,
-    "date": "2020-04-25",
+    "time": "2020-05-09",
+    "powerpointUrl": "https://biocodehub.coding.net/s/d66af799-6871-428a-bc0a-9588a579ad4d",
+    "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Chromatin architecture reorganization in murine somatic cell nuclear transfer em",
+        "url": "https://note.youdao.com/ynoteshare1/index.html?id=6eb4c65a879eb56c38d4ebd4cd20b3e0&type=note",
+        "author": "苏柃"
+      },
+      {
+        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
+        "url": "",
+        "author": "尤佳琦"
+      },
+      {
+        "title": "Genomic basis for RNA alterations in cancer",
+        "url": "",
+        "author": "王瑞鹏"
+      }
+    ]
+  },
+  {
+    "time": "2020-04-25",
+    "powerpointUrl": "https://biocodehub.coding.net/s/6a6ad6de-ac16-4621-97aa-c393f13104d6",
     "img": "https://s1.ax1x.com/2020/06/11/tqWj7F.png",
     "title": "",
     "content": [
       {
         "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
-        "url": "https://biocottonhub.github.io/codeHub/2020/04/24/26%E6%9D%82%E8%8D%89%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%BF%9B%E5%8C%96/"
+        "url": "https://biocottonhub.github.io/codeHub/2020/04/24/26%E6%9D%82%E8%8D%89%E6%B0%B4%E7%A8%BB%E7%9A%84%E8%BF%9B%E5%8C%96/",
+        "author": "陈鑫媛"
       },
       {
-        "title": "Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer",
-        "url": "https://biocottonhub.github.io/codeHub/2020/04/23/25%E7%99%8C%E7%97%87%E4%B8%AD%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%9A%84%E9%87%8D%E6%8E%92%E5%AF%B9%E6%9F%93%E8%89%B2%E8%B4%A8%E6%8A%98%E5%8F%A0%E7%9A%84%E5%BD%B1%E5%93%8D/"
+        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
+        "url": "",
+        "author": "刘振平"
+      },
+      {
+        "title": "Population Genomic Analysis and De Novo Assembly Reveal the Origin of Weedy Rice as an Evolutionary Game",
+        "url": "",
+        "author": "龙跃轩"
       }
     ]
   }
