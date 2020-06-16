@@ -1,29 +1,29 @@
 [
   {
     "time": "2020-06-13",
-    "powerpointUrl": "https://biocodehub.coding.net/s/5da7aeca-483a-44cf-ae50-ccaee3c42de4",
+    "powerpointUrl": "https://biocodehub.coding.net/s/64b84d8b-e370-464d-96b7-bb0fadf08575",
     "img": "https://s1.ax1x.com/2020/06/12/tOYcLt.png",
     "title": "",
     "content": [
       {
         "title": "ChromID identifies the protein interactome at chromatin marks",
-        "url": "",
+        "url": "http://note.youdao.com/noteshare?id=6dd10762630cec3aac93dd4a54d12c49",
         "author": "牛昊",
-        "category": [],
+        "category": ["表观遗传","蛋白互作"],
         "source": "https://www.nature.com/articles/s41587-020-0434-2"
       },
       {
         "title": "Transcript expression-aware annotation improves rare variant interpretation",
-        "url": "",
+        "url": "http://note.youdao.com/noteshare?id=bbc8786592c5865e19f2d113d9720d5a",
         "author": "彭雅滨",
-        "category": [],
+        "category": ["稀有变异","转录调控"],
         "source": "https://www.nature.com/articles/s41586-020-2329-2"
       },
       {
         "title": "CRISPR–Cas9-mediated induction of heritable chromosomal translocations in Arabidopsis",
         "url": "",
         "author": "罗宣宣",
-        "category": [],
+        "category": ["CRISPR–Cas9","染色质易位"],
         "source": "https://www.nature.com/articles/s41477-020-0663-x"
       }
     ]
@@ -108,7 +108,7 @@
       },
       {
         "title": "Long-range Interactions Between Topologically Associating Domains Shape the Four-Dimensional Genome During Differentiation",
-        "url": "",
+        "url": "https://note.youdao.com/ynoteshare1/index.html?id=49b4c03017731d644db8a18e62a0c680&type=note",
         "author": "杨航",
         "category": ["TAD", "4Dgenome"],
         "source": "https://www.nature.com/articles/s41588-019-0392-0"
@@ -159,7 +159,7 @@
       },
       {
         "title": "A Pan-plant Protein Complex Map Reveals Deep Conservation and Novel Assemblies",
-        "url": "",
+        "url": "https://biocodehub.coding.net/s/222b1da6-a100-47b4-aac3-6d7243b04502",
         "author": "尤佳琦",
         "category": ["泛基因组", "蛋白互作", "机器学习"],
         "source": "https://www.ncbi.nlm.nih.gov/pubmed/32191846"
