@@ -1,5 +1,34 @@
 [
   {
+    "time": "2020-06-20",
+    "powerpointUrl": "https://biocodehub.coding.net/s/64b84d8b-e370-464d-96b7-bb0fadf08575",
+    "img": "https://s1.ax1x.com/2020/06/12/tOYcLt.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Post-transcriptional splicing of nascent RNA contributes to widespread intron retention in plants",
+        "url": "",
+        "author": "裴柳玲",
+        "category": ["可变剪切", "共转录"],
+        "source": "https://www.nature.com/articles/s41477-020-0688-1"
+      },
+      {
+        "title": "3D genome architecture coordinates trans and cis regulation of differentially expressed ear and tassel genes in maize",
+        "url": "",
+        "author": "朱孟孟",
+        "category": ["3Dgenome", "gene express"],
+        "source": "https://www.nature.com/articles/s41467-019-13386-w"
+      },
+      {
+        "title": "Characterising the loss-of-function impact of 5’ untranslated region variants in 15,708 individuals",
+        "url": "",
+        "author": "常兴",
+        "category": ["uORF"],
+        "source": "https://www.nature.com/articles/s41467-019-10717-9"
+      }
+    ]
+  },
+  {
     "time": "2020-06-13",
     "powerpointUrl": "https://biocodehub.coding.net/s/64b84d8b-e370-464d-96b7-bb0fadf08575",
     "img": "https://s1.ax1x.com/2020/06/12/tOYcLt.png",
@@ -9,21 +38,21 @@
         "title": "ChromID identifies the protein interactome at chromatin marks",
         "url": "http://note.youdao.com/noteshare?id=6dd10762630cec3aac93dd4a54d12c49",
         "author": "牛昊",
-        "category": ["表观遗传","蛋白互作"],
+        "category": ["表观遗传", "蛋白互作"],
         "source": "https://www.nature.com/articles/s41587-020-0434-2"
       },
       {
         "title": "Transcript expression-aware annotation improves rare variant interpretation",
         "url": "http://note.youdao.com/noteshare?id=bbc8786592c5865e19f2d113d9720d5a",
         "author": "彭雅滨",
-        "category": ["稀有变异","转录调控"],
+        "category": ["稀有变异", "转录调控"],
         "source": "https://www.nature.com/articles/s41586-020-2329-2"
       },
       {
         "title": "CRISPR–Cas9-mediated induction of heritable chromosomal translocations in Arabidopsis",
         "url": "",
         "author": "罗宣宣",
-        "category": ["CRISPR–Cas9","染色质易位"],
+        "category": ["CRISPR–Cas9", "染色质易位"],
         "source": "https://www.nature.com/articles/s41477-020-0663-x"
       }
     ]
@@ -43,7 +72,7 @@
       },
       {
         "title": "Variant phasing and haplotypic expression from long-read sequencing in maize",
-        "url": "",
+        "url": "https://biocottonhub.github.io/codeHub/2020/06/17/2020-06/2020-06-01/#more",
         "author": "刘振平",
         "category": ["杂志优势", "基因分型"],
         "source": "https://www.nature.com/articles/s42003-020-0805-8"
@@ -123,7 +152,7 @@
     "content": [
       {
         "title": "Wheat chromatin architecture is organized in genome territories and transcription factories",
-        "url": "",
+        "url": "http://note.youdao.com/noteshare?id=47c784b65b52ef96126a5a3e008305d0",
         "author": "常兴",
         "category": ["3Dgenome"],
         "source": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01998-1"
