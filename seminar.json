@@ -1,16 +1,16 @@
 [
   {
     "time": "2020-07-04",
-    "powerpointUrl": "https://biocodehub.coding.net/s/5a3963aa-9110-4654-97e1-9aa4a43de9d7",
+    "powerpointUrl": "https://biocodehub.coding.net/s/cc42f25a-0e5b-4b15-90f3-8d911ed8a1a3",
     "img": "https://s1.ax1x.com/2020/06/21/N8CZdK.png",
     "title": "",
     "content": [
       {
-        "title": "Post-transcriptional splicing of nascent RNA contributes to widespread intron retention in plants",
-        "url": "https://biocottonhub.github.io/codeHub/2020/06/17/2020-06/02%E6%8B%9F%E5%8D%97%E8%8A%A5%E4%B8%AD%E8%BD%AC%E5%BD%95%E4%B8%8E%E5%89%AA%E5%88%87/",
+        "title": "Research of Homologous gene expression and epigenetic in the  evolution and domestication of polyploid plants",
+        "url": "",
         "author": "陈鑫媛",
         "category": ["多倍化", "表达偏好"],
-        "source": "https://www.nature.com/articles/s41477-020-0688-1"
+        "source": "https://biocodehub.coding.net/s/03091de2-bd18-4c04-b16c-b73cfbab17bf"
       },
       {
         "title": "3D genome architecture coordinates trans and cis regulation of differentially expressed ear and tassel genes in maize",
@@ -20,8 +20,8 @@
         "source": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02063-7"
       },
       {
-        "title": "Characterising the loss-of-function impact of 5’ untranslated region variants in 15,708 individuals",
-        "url": "http://note.youdao.com/noteshare?id=3bd0ba2136f39e1b888267aca53f8fa7",
+        "title": "Identifying genetic variants underlying phenotypic variation in plants without complete genomes",
+        "url": "",
         "author": "贺鑫",
         "category": ["k-mer", "GWAS"],
         "source": "https://www.nature.com/articles/s41588-020-0612-7"
