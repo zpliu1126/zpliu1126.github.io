@@ -1,5 +1,34 @@
 [
   {
+    "time": "2020-07-18",
+    "powerpointUrl": "https://biocodehub.coding.net/s/38f82972-369a-4322-9784-da15c1fc84e9",
+    "img": "https://s1.ax1x.com/2020/06/21/N8CuJe.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Massive haplotypes underlie ecotypic differentiation in sunflowers",
+        "url": "https://app.yinxiang.com/fx/a1c312b9-6a3f-46be-b426-28acb0908493?tdsourcetag=s_pctim_aiomsg",
+        "author": "戚正阳",
+        "category": ["haplotype"],
+        "source": "https://www.nature.com/articles/s41586-020-2467-6"
+      },
+      {
+        "title": "3D genome architecture coordinates trans and cis regulation of differentially expressed ear and tassel genes in maize",
+        "url": "",
+        "author": "田雪寒",
+        "category": ["Polyploidy"],
+        "source": "https://www.nature.com/articles/s41588-020-0614-5"
+      },
+      {
+        "title": "Identifying genetic variants underlying phenotypic variation in plants without complete genomes",
+        "url": "https://biocodehub.coding.net/s/9932ab0f-64f2-4a0d-881e-748e6d08f078",
+        "author": "周洁",
+        "category": ["WGD"],
+        "source": "https://science.sciencemag.org/content/368/6498/eaaz5667"
+      }
+    ]
+  },
+  {
     "time": "2020-07-04",
     "powerpointUrl": "https://biocodehub.coding.net/s/cc42f25a-0e5b-4b15-90f3-8d911ed8a1a3",
     "img": "https://s1.ax1x.com/2020/06/21/N8CZdK.png",
