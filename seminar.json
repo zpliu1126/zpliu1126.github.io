@@ -1,5 +1,69 @@
 [
   {
+    "time": "2020-08-31",
+    "powerpointUrl": "https://biocodehub.coding.net/s/38f82972-369a-4322-9784-da15c1fc84e9",
+    "img": "https://s1.ax1x.com/2020/06/21/N8CuJe.png",
+    "title": "",
+    "content": [
+      {
+        "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+        "url": "",
+        "author": "戚正阳",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2493-4"
+      },
+      {
+        "title": "Landscape of cohesin-mediated chromatin loops in the human genome",
+        "url": "",
+        "author": "刘振平",
+        "category": ["Hi-C", "loop"],
+        "source": "https://www.nature.com/articles/s41586-020-2151-x"
+      },
+      {
+        "title": "Global reference mapping of human transcription factor footprints",
+        "url": "",
+        "author": "牛昊",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2528-x"
+      },
+      {
+        "title": "Occupancy maps of 208 chromatin-associated proteins in one human cell type",
+        "url": "",
+        "author": "尤佳琦",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2023-4"
+      },
+      {
+        "title": "A limited set of transcriptional programs define major cell types",
+        "url": "",
+        "author": "苏柃",
+        "category": [],
+        "source": "https://www.biorxiv.org/content/10.1101/857169v2"
+      },
+      {
+        "title": "A large-scale binding and functional map of human RNA binding proteins",
+        "url": "",
+        "author": "常兴",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2077-3"
+      },
+      {
+        "title": "Index and biological spectrum of human DNase I hypersensitive sites",
+        "url": "",
+        "author": "田雪寒",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2559-3"
+      },
+      {
+        "title": "An integrative ENCODE resource for cancer genomics",
+        "url": "",
+        "author": "陈鑫媛",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41467-020-14743-w"
+      }
+    ]
+  },
+  {
     "time": "2020-07-18",
     "powerpointUrl": "https://biocodehub.coding.net/s/38f82972-369a-4322-9784-da15c1fc84e9",
     "img": "https://s1.ax1x.com/2020/06/21/N8CuJe.png",
