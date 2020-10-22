@@ -1,6 +1,70 @@
 [
   {
-    "time": "2020-08-31",
+    "time": "2020-10-11",
+    "powerpointUrl": "https://biocodehub.coding.net/s/ae656d93-db17-4e67-887a-eef87761c391",
+    "img": "https://imgchr.com/i/N8Cks1",
+    "title": "",
+    "content": [
+      {
+        "title": "Genetic effects on gene expression across human tissues",
+        "url": "https://www.nature.com/articles/nature24277?error=cookies_not_supported&code=cc4af89e-122d-41e8-a6ee-ecab1a8223e1",
+        "author": "陈鑫媛",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "The impact of rare variation on gene expression across tissues",
+        "url": "https://www.nature.com/articles/nature24267",
+        "author": "牛昊",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "The human noncoding genome defined by genetic diversity",
+        "url": "https://www.nature.com/articles/s41588-018-0062-7/figures/",
+        "author": "黄越凡",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "High-throughput identification of human SNPs affecting regulatory element activity",
+        "url": "https://www.nature.com/articles/s41588-019-0455-2",
+        "author": "贺鑫",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "Dysregulation of expression correlates with rare-allele burden and fitness loss in maize",
+        "url": "https://www.nature.com/articles/nature25966",
+        "author": "周洁",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "Dynamic genetic regulation of gene expression during cellular differentiation",
+        "url": "https://science.sciencemag.org/content/364/6447/1287.full",
+        "author": "尤佳琦",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "Co-expression networks reveal the tissue-specific regulation of transcription and splicing",
+        "url": "https://genome.cshlp.org/content/27/11/1843",
+        "author": "刘振平",
+        "category": [],
+        "source": ""
+      },
+      {
+        "title": "A transcriptome-wide association study of high-grade serous epithelial ovarian cancer identifies new susceptibility genes and splice variants",
+        "url": "https://www.nature.com/articles/s41588-019-0395-x",
+        "author": "刘振平",
+        "category": [],
+        "source": ""
+      }
+    ]
+  },
+  {
+    "time": "2020-9-20",
     "powerpointUrl": "https://biocodehub.coding.net/s/221be1c4-95a0-47b6-a145-d8c9b9e7a304",
     "img": "https://s1.ax1x.com/2020/06/21/N8CniD.png",
     "title": "",
