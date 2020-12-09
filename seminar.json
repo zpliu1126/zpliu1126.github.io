@@ -1,5 +1,84 @@
 [
   {
+    "time": "2020-11-20",
+    "powerpointUrl": "https://biocodehub.coding.net/s/9e3e4a3b-f75c-49e1-8a1f-9bf5e5becc03",
+    "img": "https://s1.ax1x.com/2020/10/22/BFcvwQ.jpg",
+    "title": "",
+    "content": [
+      {
+        "title": "Transcriptome and translatome co-evolution in mammals",
+        "url": "",
+        "author": "田雪寒",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2899-z"
+      },
+      {
+        "title": "Site-specific RNA methylation by a methyltransferase ribozyme",
+        "url": "",
+        "author": "彭雅滨",
+        "category": [],
+        "source": "https://www.x-mol.com/paperRedirect/1321626550272233472"
+      },
+      {
+        "title": "Integrative analysis of reference epigenomes in 20 rice varieties",
+        "url": "",
+        "author": "周洁",
+        "category": [],
+        "source": "https://doi.org/10.1038/s41467-020-16457-5"
+      },
+      {
+        "title": "Assembly of whole-chromosome pseudomolecules for polyploid plant genomes using outbred mapping populations",
+        "url": "",
+        "author": "常兴",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41588-020-00717-7"
+      },
+      {
+        "title": "Highly interconnected enhancer communities control lineage-determining genes in human mesenchymal stem cells",
+        "url": "",
+        "author": "杨航",
+        "category": [],
+        "source": "https://doi.org/10.1038/s41588-020-0709-z"
+      }
+    ]
+  },
+  {
+    "time": "2020-11-07",
+    "powerpointUrl": "https://biocodehub.coding.net/s/eac9cd56-8ad1-4359-80d2-973c342c8bf8",
+    "img": "https://s1.ax1x.com/2020/10/22/BFcvwQ.jpg",
+    "title": "",
+    "content": [
+      {
+        "title": "Contrasting signatures of genomic divergence during sympatric speciation",
+        "url": "",
+        "author": "戚正阳",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41586-020-2845-0"
+      },
+      {
+        "title": "The impact of transposable elements on tomato diversity",
+        "url": "",
+        "author": "苏柃",
+        "category": [],
+        "source": "https://www.x-mol.com/paperRedirect/1294385576389779456"
+      },
+      {
+        "title": "Identification and characterization of essential genes in the human genome",
+        "url": "",
+        "author": "宋杨",
+        "category": [],
+        "source": "https://science.sciencemag.org/content/350/6264/1096.full"
+      },
+      {
+        "title": "Analysis of RNA–protein networks with RNP-MaP defines functional hubs on RNA",
+        "url": "",
+        "author": "贺嘉慧",
+        "category": [],
+        "source": "https://www.nature.com/articles/s41587-020-0709-7"
+      }
+    ]
+  },
+  {
     "time": "2020-10-11",
     "powerpointUrl": "https://biocodehub.coding.net/s/ae656d93-db17-4e67-887a-eef87761c391",
     "img": "https://s1.ax1x.com/2020/10/22/BFcvwQ.jpg",
