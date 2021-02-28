@@ -1,4 +1,4 @@
-[!zpliu's github stats](https://github-readme-stats.vercel.app/api?username=zpliu1126&show_icons=true)](https://github.com/zpliu1126)
+[![zpliu's github stats](https://github-readme-stats.vercel.app/api?username=zpliu1126&show_icons=true)](https://github.com/zpliu1126)
 
 
 
